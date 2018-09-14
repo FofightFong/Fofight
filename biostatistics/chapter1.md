@@ -1,3 +1,3 @@
-### General Overview
+### 1.General Overview
 
 统计学是在相对有限的样本材料的基础上对特定随机现象进行推断的科学。
